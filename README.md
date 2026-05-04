@@ -14,8 +14,8 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sriramch163&label=Profile+Views&style=for-the-badge&color=22c55e" />
-  <img src="https://img.shields.io/github/followers/sriramch163?style=for-the-badge&color=6366f1" />
+  <img src="https://komarev.com/ghpvc/?username=narupallenandu&label=Profile+Views&style=for-the-badge&color=22c55e" />
+  <img src="https://img.shields.io/github/followers/narupallenandu?style=for-the-badge&color=6366f1" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-0ea5e9?style=for-the-badge&logo=linkedin" />
 </p>
 
@@ -64,11 +64,11 @@ Python, Bash, YAML
 ## 📈 Git Contribution Work
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sriramch163&bg_color=0d1117&color=22c55e&line=6366f1&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=narupallenandu&bg_color=0d1117&color=22c55e&line=6366f1&area=true&hide_border=true" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sriramch163/sriramch163/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/narupallenandu/narupallenandu/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -77,14 +77,14 @@ Python, Bash, YAML
 
 | Project Name | Tech Stack | Description | Repository |
 |-------------|------------|-------------|------------|
-| **url-shortener-app** | Flask, SQLite, Docker | URL shortener with containerized deployment | [View Repo](https://github.com/sriramch163/url-shortener-app) |
-| **Todo-App** | HTML, CSS, JavaScript, Docker | Task management app with Docker deployment | [View Repo](https://github.com/sriramch163/Todo-App) |
-| **Hello-World** | Python, Flask, Docker | Basic Flask app demonstrating containerization | [View Repo](https://github.com/sriramch163/Hello-World) |
-| **calculator** | HTML, CSS | Web calculator with basic operations | [View Repo](https://github.com/sriramch163/calculator) |
-| **ARK-Customer_Service_Chatbot** | Python, Flask, AWS | AI chatbot system with scalable backend | [View Repo](https://github.com/sriramch163/ARK-Customer_Service_Chatbot) |
-| **fraud-detection-ml** | Python, ML | Machine learning fraud detection system | [View Repo](https://github.com/sriramch163/fraud-detection-ml) |
-| **spotify_clone** | TypeScript | Spotify UI clone | [View Repo](https://github.com/sriramch163/spotify_clone) |
-| **Human_Emotional_Adaptation_Model** | Python, AI | Emotional behavior analysis model | [View Repo](https://github.com/sriramch163/Human_Emotional_Adaptation_Model) |
+| **url-shortener-app** | Flask, SQLite, Docker | URL shortener with containerized deployment | [View Repo](https://github.com/narupallenandu/url-shortener-app) |
+| **Todo-App** | HTML, CSS, JavaScript, Docker | Task management app with Docker deployment | [View Repo](https://github.com/narupallenandu/Todo-App) |
+| **Hello-World** | Python, Flask, Docker | Basic Flask app demonstrating containerization | [View Repo](https://github.com/narupallenandu/Hello-World) |
+| **calculator** | HTML, CSS | Web calculator with basic operations | [View Repo](https://github.com/narupallenandu/calculator) |
+| **ARK-Customer_Service_Chatbot** | Python, Flask, AWS | AI chatbot system with scalable backend | [View Repo](https://github.com/narupallenandu/ARK-Customer_Service_Chatbot) |
+| **fraud-detection-ml** | Python, ML | Machine learning fraud detection system | [View Repo](https://github.com/narupallenandu/fraud-detection-ml) |
+| **spotify_clone** | TypeScript | Spotify UI clone | [View Repo](https://github.com/narupallenandu/spotify_clone) |
+| **Human_Emotional_Adaptation_Model** | Python, AI | Emotional behavior analysis model | [View Repo](https://github.com/narupallenandu/Human_Emotional_Adaptation_Model) |
 
 ---
 
@@ -101,8 +101,8 @@ Python, Bash, YAML
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriramch163&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sriramch163&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=narupallenandu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=narupallenandu&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -112,7 +112,7 @@ Python, Bash, YAML
 <p align="center">
   <a href="mailto:narupallenandini321@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/sriramch163"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/narupallenandu"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
