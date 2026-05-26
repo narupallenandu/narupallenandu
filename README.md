@@ -1,5 +1,5 @@
 <!-- =========================================================
-🌟 Narupalle Siv aNandini | DevOps Engineer — Professional GitHub Profile
+🌟 Narupalle Siva Nandini | DevOps Engineer — Professional GitHub Profile
 ========================================================== -->
 
 <!-- Banner -->
@@ -9,7 +9,7 @@
 
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=80&color=00F0FF&lines=Hi+👋+I'm+Narupalle+SivaNandini;DevOps+Engineer;AWS+CI%2FCD+Docker+Kubernetes;Automating+Infrastructure+%26+Deployments" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&height=80&color=00F0FF&lines=Hi+👋+I'm+Narupalle+Siva+Nandini;DevOps+Engineer;AWS+CI%2FCD+Docker+Kubernetes;Automating+Infrastructure+%26+Deployments" />
 </p>
 
 <!-- Badges -->
@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-I am **Narupalle SivaNandini**, a DevOps Engineer with experience in cloud infrastructure, CI/CD automation, and containerized deployments.
+I am **Narupalle Siva Nandini**, a DevOps Engineer with experience in cloud infrastructure, CI/CD automation, and containerized deployments.
 
 - Skilled in AWS, Docker, Kubernetes, Terraform  
 - Built end-to-end CI/CD pipelines  
