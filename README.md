@@ -76,16 +76,28 @@ Python, Bash, YAML
 ## 📌 Pinned Projects
 
 | Project Name | Tech Stack | Description | Repository |
+## 📌 Pinned Projects
+
+| Project Name | Tech Stack | Description | Repository |
 |-------------|------------|-------------|------------|
+| **Shell-Scripts-CI-CD** | Bash, Jenkins, Linux | Bash shell scripts and Jenkins CI/CD pipelines for Linux automation and DevOps operations | [View Repo](https://github.com/narupallenandu/Shell-Scripts-CI-CD) |
+| **kubeswiggy** | Kubernetes, Docker, Jenkins | End-to-end DevOps deployment project for a Swiggy-inspired application using Kubernetes and CI/CD | [View Repo](https://github.com/narupallenandu/kubeswiggy) |
+| **jenkins-hello-world** | Jenkins, HTML | Simple Jenkins pipeline integration project | [View Repo](https://github.com/narupallenandu/jenkins-hello-world) |
+| **enterprise-devsecops-pipeline** | Jenkins, Docker, AWS, Security | Enterprise DevSecOps pipeline with automated security scanning and deployments | [View Repo](https://github.com/narupallenandu/enterprise-devsecops-pipeline) |
+| **Simple-file** | HTML, CSS, JavaScript | Interactive animated webpage with modern UI design | [View Repo](https://github.com/narupallenandu/Simple-file) |
+| **Budget-Expense-Tracker** | Flask, Python, SQLite | Personal finance and expense management web application | [View Repo](https://github.com/narupallenandu/Budget-Expense-Tracker) |
+| **Minimal-White-Web** | Docker, Apache, Ubuntu | Containerized static website deployment using Apache server | [View Repo](https://github.com/narupallenandu/Minimal-White-Web) |
+| **wisecow-k8s** | Kubernetes, Docker, Python | Kubernetes deployment project with DevOps automation workflows | [View Repo](https://github.com/narupallenandu/wisecow-k8s) |
+| **jenkins-ci** | Jenkins, CI/CD, CSS | Continuous Integration automation using Jenkins pipelines | [View Repo](https://github.com/narupallenandu/jenkins-ci) |
 | **url-shortener-app** | Flask, SQLite, Docker | URL shortener with containerized deployment | [View Repo](https://github.com/narupallenandu/url-shortener-app) |
 | **Todo-App** | HTML, CSS, JavaScript, Docker | Task management app with Docker deployment | [View Repo](https://github.com/narupallenandu/Todo-App) |
 | **Hello-World** | Python, Flask, Docker | Basic Flask app demonstrating containerization | [View Repo](https://github.com/narupallenandu/Hello-World) |
 | **calculator** | HTML, CSS | Web calculator with basic operations | [View Repo](https://github.com/narupallenandu/calculator) |
-| **ARK-Customer_Service_Chatbot** | Python, Flask, AWS | AI chatbot system with scalable backend | [View Repo](https://github.com/narupallenandu/ARK-Customer_Service_Chatbot) |
-| **fraud-detection-ml** | Python, ML | Machine learning fraud detection system | [View Repo](https://github.com/narupallenandu/fraud-detection-ml) |
-| **spotify_clone** | TypeScript | Spotify UI clone | [View Repo](https://github.com/narupallenandu/spotify_clone) |
 | **Human_Emotional_Adaptation_Model** | Python, AI | Emotional behavior analysis model | [View Repo](https://github.com/narupallenandu/Human_Emotional_Adaptation_Model) |
-
+| **spotify_clone** | TypeScript | Spotify UI clone project | [View Repo](https://github.com/narupallenandu/spotify_clone) |
+| **ARK-Customer_Service_Chatbot** | Python, Flask, AWS | AI chatbot system with scalable backend | [View Repo](https://github.com/narupallenandu/ARK-Customer_Service_Chatbot) |
+| **fraud-detection-ml** | Python, Machine Learning | Machine learning fraud detection system | [View Repo](https://github.com/narupallenandu/fraud-detection-ml) |
+| **narupallenandu** | GitHub Profile README | Professional GitHub profile showcasing DevOps and cloud projects | [View Repo](https://github.com/narupallenandu/narupallenandu) |
 ---
 
 ## 🏅 Certifications
