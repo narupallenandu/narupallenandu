@@ -1,5 +1,5 @@
 <!-- =========================================================
-🌟 Narupalle SivaNandini | DevOps Engineer — Professional GitHub Profile
+🌟 Narupalle Siv aNandini | DevOps Engineer — Professional GitHub Profile
 ========================================================== -->
 
 <!-- Banner -->
