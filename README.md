@@ -122,8 +122,10 @@ Python, Bash, YAML
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:narupallenandini321@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
-  
+  <a href="mailto:narupallenandini321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/narupalle-sivanandini-310a6a25b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
@@ -133,7 +135,7 @@ Python, Bash, YAML
   </a>
 
   <a href="https://narupalle-nandini.lovable.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
